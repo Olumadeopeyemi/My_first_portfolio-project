@@ -29,7 +29,7 @@
 			this.$paypalForm = this.$element.find( "#paypal-form" ); // PayPal form
 			
 			
-			this.currency = "&#8369;"; // HTML entity of the currency to be displayed in the layout
+			this.currency = "&#8358;"; // HTML entity of the currency to be displayed in the layout
 			this.currencyString = "PHP"; // Currency symbol as textual string
 			this.paypalCurrency = "PHP"; // PayPal's currency code
 			this.paypalBusinessEmail = "yourbusiness@email.com"; // Your Business PayPal's account email address
